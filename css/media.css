@@ -1,0 +1,452 @@
+@media(max-width: 1330px){
+    header nav{
+        width: 80%;
+    }
+    header section{
+        width: 80%;
+    }
+    .menu{
+        width: 80%;
+    }
+    .card-box .cards-box1{
+        width: 80%;
+    }
+    .card-box .cards-box1 .card{
+        width: 32%;
+    }
+    .card-box .cards-box1 .card-b{
+        width: 48%;
+    }
+    footer::before{
+        z-index: -1;
+    }
+    .social{
+        height: auto;
+        padding-bottom: 20px;
+    }
+    .social .social2 .social-box .twitter{
+        width: 100%;
+        margin: 5px 0px;
+    }
+
+    .social .social2 .social-box .facebook{
+        width: 100%;
+        height: 100px;
+        margin: 5px 0px;
+    }
+
+    .social .social2 .social-box .facebook:nth-child(1){
+        width: 100%;
+        height: 170px;
+    }
+    address .add .kfc-add .phone{
+        font-size: 12px;
+    }
+    address .add .kfc-add, .kfc-icon{
+        width: 70%;
+    }
+
+    address .add .kfc-add{
+        width: 70%;
+    }
+
+    address .add .kfc-icon{
+        width: 30%;
+    }
+}
+
+@media (max-width: 825px){
+    .menu .menu-sec .border{
+        left: 5%;
+    }
+    footer::before{
+        z-index: -1;
+    }
+
+    .app-box .appbox1 .app-content{
+        margin-left: 50px;
+    }
+
+    .app-box .appbox1 .app-content h1{
+        font-size: 18px;
+    }
+    .app-box .appbox1 .app-content .imgs img{
+        width: 120px;
+    }
+
+    .app-box .appbox1 .app-img img{
+        width: 300px;
+    }
+
+    .card-box .cards-box1 .card{
+        width: 230px;
+        height: 140px;
+    }
+
+    .card-box .cards-box1 .card-b{
+        width: 310px; 
+    }
+
+    .social .social2 .social-video .video{
+        width: 400px;
+        height: 215px;
+        border: 6px solid #fff;
+    }
+
+    address .add .kfc-add, .kfc-icon{
+        width: 70%;
+    }
+
+    address .add .kfc-add{
+        width: 70%;
+    }
+
+    address .add .kfc-icon{
+        width: 30%;
+    }
+
+    footer .links{
+        width: 100%;
+        justify-content: center;
+    }
+
+    address .add .kfc-add .phone{
+        font-size: 12px;
+    }
+    header nav ul li a {
+        font-size: 13px;
+    }
+
+}
+
+@media(max-width: 740px){
+    header nav ul li a {
+        font-size: 13px;
+    }
+
+    header section .left-content-side h1{
+        font-size: 38px;
+        line-height: 40px;
+    }
+    
+    header section .left-content-side p{
+        font-size: 10px;
+        font-weight: 300;
+    }
+
+    header section .left-content-side button{
+        padding: 5px 25px;
+        font-size: 13px;
+        font-weight: 600;
+    }
+
+    .card-box .cards-box1{
+        display: flex;
+        justify-content: center;
+        gap: 8px;
+    }
+    .card-box .cards-box1 .card{
+        width: 215px;
+        height: 120px;
+    }
+
+    .card-box .cards-box1 .card .content h2{
+        font-size: 13px;
+        line-height: 15px;
+    }
+    
+    .card-box .cards-box1 .card .content p{
+        font-size: 8px;
+        line-height: 12px;
+    }
+
+    address .add .kfc-add, .kfc-icon{
+        width: 50%;
+    }
+
+    address .add .kfc-add{
+        width: 80%;
+    }
+
+    address .add .kfc-icon{
+        width: 30%;
+    }
+
+    footer .links{
+        width: 100%;
+        justify-content: center;
+    }
+
+    address .add .kfc-add .phone{
+        font-size: 10px;
+    }
+}
+
+@media(max-width: 620px){
+    header{
+        height: 100vh;
+
+    }
+    header section{
+        flex-wrap: wrap-reverse;
+        justify-content: center;
+    }
+    header section .left-content-side, .right-food-side{
+        width: 100%;
+        height: 50%;
+    }
+
+    header section .left-content-side h1{
+        margin-top: 0;
+        font-size: 40px;
+        line-height: 35px;
+    }
+
+    header section .rigth-food-side img {
+        position: absolute;
+        top: 30px;
+        width: 500px;
+    }
+
+    header nav .user li:nth-child(2){
+        display: none;
+    }
+
+    address .add .kfc-add, .kfc-icon{
+        width: 40%;
+    }
+
+    address .add .kfc-add{
+        width: 80%;
+    }
+
+    address .add .kfc-icon{
+        width: 30%;
+    }
+
+    footer .links{
+        width: 100%;
+        justify-content: center;
+    }
+
+    address .add .kfc-add .phone{
+        font-size: 8px;
+    }
+
+    address .add .kfc-add .phone img{
+        width: 25px;
+        margin-bottom: -8px;
+    }
+
+    footer .links .card-foot h1{
+        font-size: 12px;
+    }
+    
+    
+    footer .links .card-foot a{
+        font-size: 8px;
+    }
+
+    footer .links .card-foot{
+        width: 130px;
+    }
+
+    .social .social2 .social-box .twitter h3{
+        font-size: 12px;
+    }
+    
+    .social .social2 .social-box .twitter p{
+        font-size: 8px;
+    }
+
+    .social .social2 .social-box .facebook h3{
+        font-size: 12px;
+    }
+    
+    .social .social2 .social-box .facebook p{
+        font-size: 7px;
+    }
+
+    .social .social2 .social-video .video{
+        width: 250px;
+        height: 165px;
+        border: 6px solid #fff;
+        margin-top: 10px;
+    }
+    .social .social2{
+        display: block;
+    }
+
+    header nav ul li a {
+        font-size: 10px;
+    }
+
+    header nav .menu-icon{
+        display: flex;
+    }
+    
+    header nav .menu-icon .bi:nth-child(2){
+        display: none;
+    }
+
+    header nav ul{
+        position: absolute;
+        width: 300px;
+        height: 20px;
+        right: -150%;
+        top: 70px;
+        z-index: 999999999999999;
+    }
+
+    .menu-ul-list-java{
+        right: 10%;
+        transition: all 1s ease-in-out;
+    }
+
+    header .humburger .bi:nth-child(1){
+        display: none;
+    }
+
+    header humburger .bi:nth-child(2){
+        display: flex;
+    } 
+}
+
+@media (max-width: 1630px) {
+    header nav {
+        width: 85%;
+    }
+
+    header section {
+        width: 85%;
+    }
+
+    .menu {
+        width: 85%;
+    }
+
+    .card-box .cards-box1 {
+        width: 85%;
+    }
+
+    .card-box .cards-box1 .card {
+        width: 32%;
+
+    }
+
+    .card-box .cards-box1 .card-b {
+        width: 48%;
+    }
+
+    .social {
+        height: auto;
+        padding-bottom: 30px;
+    }
+
+    .social .social2 .social-box .twitter {
+        width: 100%;
+        margin: 10px 0;
+    }
+
+    .social .social2 .social-box .facebook {
+        width: 100%;
+        height: 120px;
+        margin: 10px 0;
+    }
+
+    footer .links {
+        width: 100%;
+        justify-content: center;
+    }
+
+    address .add .kfc-add .phone {
+        font-size: 14px;
+    }
+
+    address .add .kfc-add, .kfc-icon {
+        width: 75%;
+    }
+
+    address .add .kfc-add {
+        width: 75%;
+    }
+
+    address .add .kfc-icon {
+        width: 25%;
+    }
+
+    header nav ul li a {
+        font-size: 14px;
+    }
+}
+
+@media (max-width: 1850px) {
+    header nav {
+        width: 90%;
+    }
+
+    header section {
+        width: 90%;
+    }
+
+    .menu {
+        width: 50%;
+    }
+
+    .card-box .cards-box1 {
+        width: 65%;
+    }
+
+    .card-box .cards-box1 .card {
+        width: 28%;
+    }
+
+    .card-box .cards-box1 .card-b {
+        width: 45%;
+    }
+
+    .social {
+        height: auto;
+        padding-bottom: 40px;
+    }
+
+    .social .social2 .social-box .twitter {
+        width: 90%;
+        margin: 15px 0;
+    }
+
+    .social .social2 .social-box .facebook {
+        width: 90%;
+        height: 110px;
+        margin: 15px 0;
+    }
+
+    footer .links {
+        width: 100%;
+        justify-content: center;
+    }
+
+    address .add .kfc-add .phone {
+        font-size: 16px;
+    }
+
+    address .add .kfc-add, .kfc-icon {
+        width: 80%;
+    }
+
+    address .add .kfc-add {
+        width: 80%;
+    }
+
+    address .add .kfc-icon {
+        width: 20%;
+    }
+
+    header nav ul li a {
+        font-size: 16px;
+    }
+
+    header nav img{
+        width: 15%;
+    }
+}
