@@ -450,3 +450,211 @@
         width: 15%;
     }
 }
+
+@media(max-width: 390px){
+    .card-box .cards-box1 {
+        display: block;
+        justify-content: center;
+    }
+
+    .card-box .cards-box1 .card {
+        width: 85%;
+        margin-top: 10px;
+    }
+
+    .card-box {
+        height: 800px;
+    }
+
+    .app-box{
+        height: 350px;
+    }
+
+    .app-box .appbox1{
+        height: 350px;
+    }
+
+    .app-box .appbox1 .app-img, .app-content{
+        width: 45%;
+    }
+
+    .app-box .appbox1 .app-img img{
+        width: 230px;
+    }
+
+    .app-box .appbox1 .app-content h1{
+        font-size: 14px;
+    }
+    
+    .app-box .appbox1 .app-content p {
+        font-size: 10px;
+    }
+
+    header nav ul li a {
+        font-size: 10px;
+    }
+
+    .social .social2 .social-box{
+        justify-content: center;
+    }
+
+    .social .social2 .social-box .twitter{
+        padding-left: 200px;
+    }
+
+    .social .social2 .social-box .facebook{
+        padding-left: 200px;
+    }
+
+    .social .social2 .social-box .twitter h3{
+        font-size: 10px;
+        margin-left: -150px;
+    }
+    .social .social2 .social-box .twitter p{
+        font-size: 8px;
+        margin-left: -150px;
+    }
+    .social .social2 .social-box .facebook h3{
+        font-size: 10px;
+        margin-left: -200px;
+    }
+    .social .social2 .social-box .facebook p{
+        font-size: 8px;
+        margin-left: -160px;
+        margin-top: -10px;
+    }
+
+    .social .social2 .social-video .video{
+        position:relative;
+        width: 400px;
+        height: 125px;
+    }
+
+    address {
+        height: 200px;
+    }
+    address .add {
+        display: block;
+        justify-content: center;
+        width: 100%;
+    }
+
+    address .add .kfc-add .phone{
+        font-size: 7px;
+        /* line-height: 10px */
+    }
+
+    address .add .kfc-add .phone img {
+        width: 15px;
+        margin-bottom: -8px;
+    }
+
+    address .add .kfc-add, .kfc-icon {
+        width: -50px;
+        margin-left: 50px;
+    }
+}
+
+@media(max-width: 450px){
+    .card-box .cards-box1 {
+        display: block;
+        justify-content: center;
+    }
+
+    .card-box .cards-box1 .card {
+        width: 85%;
+        margin-top: 10px;
+    }
+
+    .card-box {
+        height: 800px;
+    }
+
+    .app-box{
+        height: 350px;
+    }
+
+    .app-box .appbox1{
+        height: 350px;
+    }
+
+    .app-box .appbox1 .app-img, .app-content{
+        width: 45%;
+    }
+
+    .app-box .appbox1 .app-img img{
+        width: 230px;
+    }
+
+    .app-box .appbox1 .app-content h1{
+        font-size: 14px;
+    }
+    
+    .app-box .appbox1 .app-content p {
+        font-size: 10px;
+    }
+
+    header nav ul li a {
+        font-size: 10px;
+    }
+
+    .social .social2 .social-box{
+        justify-content: center;
+    }
+
+    .social .social2 .social-box .twitter{
+        padding-left: 200px;
+    }
+
+    .social .social2 .social-box .facebook{
+        padding-left: 200px;
+    }
+
+    .social .social2 .social-box .twitter h3{
+        font-size: 10px;
+        margin-left: -150px;
+    }
+    .social .social2 .social-box .twitter p{
+        font-size: 8px;
+        margin-left: -150px;
+    }
+    .social .social2 .social-box .facebook h3{
+        font-size: 10px;
+        margin-left: -200px;
+    }
+    .social .social2 .social-box .facebook p{
+        font-size: 8px;
+        margin-left: -160px;
+        margin-top: -10px;
+    }
+
+    .social .social2 .social-video .video{
+        position:relative;
+        width: 400px;
+        height: 125px;
+    }
+
+    address {
+        height: 200px;
+    }
+    address .add {
+        display: block;
+        justify-content: center;
+        width: 100%;
+    }
+
+    address .add .kfc-add .phone{
+        font-size: 7px;
+        /* line-height: 10px */
+    }
+
+    address .add .kfc-add .phone img {
+        width: 15px;
+        margin-bottom: -8px;
+    }
+
+    address .add .kfc-add, .kfc-icon {
+        width: -50px;
+        margin-left: 50px;
+    }
+}
